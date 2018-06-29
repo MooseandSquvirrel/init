@@ -1,0 +1,2 @@
+# The NAT (or Network Address Translation) is what connects the private ne# twork to the public. Multiple computers with private IPs receive one si # gle IP address from the NAT so that external packets can be received to #  a public IP. 
+traceroute slash16.org | grep nat
