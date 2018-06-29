@@ -1,0 +1,4 @@
+/etc/resolve.conf
+
+This command will display the domain 42.us.org and nameserver 10.51.1.253
+
