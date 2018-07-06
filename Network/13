@@ -1,0 +1,4 @@
+# Run the host command on 10.51.1.253 to discover the type of server is a DHCP (or Dynamic Host Configuration Protocol)
+
+#!/bin/bash
+host 10.51.1.253

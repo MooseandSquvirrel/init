@@ -1,0 +1,4 @@
+#!/bin/bash 
+cat /etc/debian_version
+
+# version is 9.4

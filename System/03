@@ -1,0 +1,3 @@
+# The file that has to be modified to make the rename permanent is /etc/hostname
+
+vi /etc/hostname

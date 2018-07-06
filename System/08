@@ -1,0 +1,7 @@
+# The file that contains the public RSA key is 
+~/.ssh/id_rsa.pub
+
+# The file that contains the private RSA key is 
+~/.ssh/id_rsa 
+
+# source for information is: https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys

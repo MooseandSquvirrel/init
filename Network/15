@@ -1,0 +1,3 @@
+# Local DNS entries located in /etc/hosts
+
+less /etc/hosts

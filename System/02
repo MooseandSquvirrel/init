@@ -1,0 +1,3 @@
+# enter new host name after "hostname"
+#!/bin/bash 
+su hostname
